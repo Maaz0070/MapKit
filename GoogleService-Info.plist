@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938815841146-b7b2gah7864g7igj4tgio7rqfpnieoue.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938815841146-b7b2gah7864g7igj4tgio7rqfpnieoue</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYWyHD0DlnllNBF_bVr3E2AS10GnVYBs8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938815841146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codegradients.rentalproperty</string>
+	<key>PROJECT_ID</key>
+	<string>realestate-6126a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realestate-6126a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938815841146:ios:341b72dd4c6dcd368fecc3</string>
+	<key>DATABASE_URL</key>
+	<string>https://realestate-6126a.firebaseio.com</string>
+</dict>
+</plist>
