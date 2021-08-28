@@ -20,7 +20,7 @@ The following **additional** features are implemented:
 - [x] User can see compass on top right
 ##Video Walkthrough of basic features:
 
-![NOYizlf - Imgur](https://user-images.githubusercontent.com/67044481/129959225-6d5808ac-e8c2-4c8d-8ead-3ba829f019b9.gif)
+![mapkit](https://user-images.githubusercontent.com/67044481/131228845-44abdae4-28a3-4642-a05f-ece929810278.gif)
 
 - [x] Here we select the different options to sort the properties and open property details page from the news screen.
 - [x] We then click the map icon and select a pin which brings up our custom annotation.
